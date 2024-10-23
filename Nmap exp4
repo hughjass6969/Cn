@@ -1,0 +1,14 @@
+nmap self.ip
+
+nmap -O self.ip
+
+nmap -sV self.ip
+
+nmap -sC self.ip
+
+
+
+
+Use 
+
+nmap - help
